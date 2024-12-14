@@ -1,0 +1,23 @@
+/* Общие стили для приложения */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  div {
+    padding: 20px;
+  }
+  
+  header, footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+  }
+  
